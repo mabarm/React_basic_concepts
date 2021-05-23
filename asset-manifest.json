@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/mabarm/React_basic_concepts/static/js/main.301d1fe0.chunk.js",
+    "main.js.map": "/mabarm/React_basic_concepts/static/js/main.301d1fe0.chunk.js.map",
+    "runtime-main.js": "/mabarm/React_basic_concepts/static/js/runtime-main.67bd261b.js",
+    "runtime-main.js.map": "/mabarm/React_basic_concepts/static/js/runtime-main.67bd261b.js.map",
+    "static/css/2.9dc35fa5.chunk.css": "/mabarm/React_basic_concepts/static/css/2.9dc35fa5.chunk.css",
+    "static/js/2.7655fbfc.chunk.js": "/mabarm/React_basic_concepts/static/js/2.7655fbfc.chunk.js",
+    "static/js/2.7655fbfc.chunk.js.map": "/mabarm/React_basic_concepts/static/js/2.7655fbfc.chunk.js.map",
+    "index.html": "/mabarm/React_basic_concepts/index.html",
+    "static/css/2.9dc35fa5.chunk.css.map": "/mabarm/React_basic_concepts/static/css/2.9dc35fa5.chunk.css.map",
+    "static/js/2.7655fbfc.chunk.js.LICENSE.txt": "/mabarm/React_basic_concepts/static/js/2.7655fbfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67bd261b.js",
+    "static/css/2.9dc35fa5.chunk.css",
+    "static/js/2.7655fbfc.chunk.js",
+    "static/js/main.301d1fe0.chunk.js"
+  ]
+}
