@@ -1,3 +1,7 @@
 ***Noted here the things i learned when trying to understand it better : by gogle,docs etc>
 
-1. 
+1. To always import React, import React from "React" in your component file is not needed. 
+window.React = React; //not everywhere needed to use after this
+But need to see why its done though.
+link:https://dev.to/dance2die/you-dont-always-need-to-import-react-3phn#:~:text=In%20this%20case%2C%20React%20object,then%20you%20can%20import%20App.
+Look more
