@@ -5,3 +5,7 @@ window.React = React; //not everywhere needed to use after this
 But need to see why its done though.
 link:https://dev.to/dance2die/you-dont-always-need-to-import-react-3phn#:~:text=In%20this%20case%2C%20React%20object,then%20you%20can%20import%20App.
 Look more
+
+componentDidMount is executed after the first render only on the client side. 
+This is where AJAX requests and DOM or state updates should occur. 
+This method is also used for integration with other JavaScript frameworks and any functions with delayed execution such as setTimeout or setInterval.
